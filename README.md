@@ -1,7 +1,7 @@
 # Currency-converter
 
-## Opis
-Przelicznik walut, który zamienia złotówki na wybraną walutę dostępną w menu wyboru.
+## Description
+Currency converter that converts Polish zlotys into the selected currency available in the selection menu.
 
-## Link do strony
+## Link to the page
 https://blaszks.github.io/Currency-converter/
