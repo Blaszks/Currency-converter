@@ -19,10 +19,12 @@
     border-radius: 5px;
     box-shadow: 5px -5px 5px 0px #D6CDD3;
     cursor: pointer;
+    transition: 0.5s;
 }
 
 .form__button:hover {
     background-color: hsl(200, 100%, 45%);
+    transform: scale(1.05);
 }
 
 .form__button:active {
